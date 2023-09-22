@@ -1,4 +1,4 @@
 #! /usr/bin/env python3
 
-msg = "software engineering is awesome!"
+msg = "Software Engineering is awesome!"
 print(msg)
