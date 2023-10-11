@@ -1,4 +1,4 @@
-# PArt1
+# Part 1
 
 ### Task 1: Create a GitHub repository
 
@@ -27,3 +27,17 @@
 ### Task 7: Add your GitHub username to the authors section
 
 rininobaron
+
+# Part 2
+
+### Task 8: Fork the repository
+
+[https://github.com/rininobaron/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/rininobaron/jbbmo-Introduction-to-Git-and-GitHub)
+
+### Task 9: Fix the typo and submit the first pull request
+
+[https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/21840](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/21840)
+
+### Task 10: Revert the typo and submit a second pull request
+
+[https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/21841](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/21841)
